@@ -8,6 +8,7 @@
 > ✨ Preview:
 
 <br>
+
 ![Preview](https://github.com/beater27032001/projeto-one-piece/assets/83441521/da1190b9-70f5-46cc-8dc8-efebc25ee61b)
 
 <br>
