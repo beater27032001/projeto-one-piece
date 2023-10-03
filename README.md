@@ -10,7 +10,7 @@
 <br>
 ![Preview do projeto](/Preview/Preview.png)
 <br>
-Link do projeto: https://beater27032001.github.io/projeto-one-piece/
+<p>Link do projeto: https://beater27032001.github.io/projeto-one-piece/</p>
 <br>
 
 > 🛠️ Ferramentas:
